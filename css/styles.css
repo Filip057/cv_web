@@ -18,8 +18,11 @@ body {
           height: 0px;
           width: 25%;
         }
+      div {
+      background-color: inherit;
+      }
 
 .title {
-    height: 500px;
-
-    }
+    height: 540px;
+    margin: 350px auto;
+}
